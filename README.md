@@ -1,3 +1,4 @@
+<h1>AIM: Create Android Application to demonstrate functions of Activity Life Cycle and Basic UI.</h1>
 <h3>Xml UI:</h3>
 <img width="209" height="370" alt="Screenshot 2025-08-15 194103" src="https://github.com/user-attachments/assets/86250571-3a8e-4584-a1d7-f2d52652bbda" />
 <h3>OnCreate methode:</h3>
